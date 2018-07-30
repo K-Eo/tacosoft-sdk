@@ -12,7 +12,7 @@
   "author": "Diego Lopez <aud0l@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/K-Eo/tacosoft-sdk.git"
   },
   "license": "MIT",
   "engines": {
